@@ -1,5 +1,7 @@
 #### About?
-An app which delievers the safest way to travel to your destination. We worked on this idea for a hackathon organized annually by IIIT Hyderabad and luckily won it :) 
+An app which delievers the safest way to travel to your destination. We worked on this idea for a hackathon with the theme women-safety organized annually by IIIT Hyderabad and luckily won it :) 
+
+Here is the <a href = "https://drive.google.com/open?id=1b-q0GwQgZWSL5p35VQdqcBrAaVG8WMyh">presentation</a> that we used to show it to everyone.
 
 #### To-do
 - [x] Work on the presentation of Safemaps.
@@ -16,8 +18,15 @@ An app which delievers the safest way to travel to your destination. We worked o
 - [ ] Remove the marker of previous destination when selecting new destination
 
 
-#### Team?
-Lavish Saluja\
+#### Team
+<a href = "https://www.linkedin.com/in/lavishsaluja/">Lavish Saluja\
 Rachit Agrawal
 
-###### Developed within 4 days for Megathon Challenge 2018 with theme "Women Safety"
+#### License
+Copyright (c) 2018 <a href="https://github.com/lavishsaluja/Safemaps#team">Safemaps Team</a>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
