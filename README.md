@@ -19,7 +19,7 @@ Here is the <a href = "https://drive.google.com/open?id=1b-q0GwQgZWSL5p35VQdqcBr
 
 
 #### Team
-<a href = "https://www.linkedin.com/in/lavishsaluja/">Lavish Saluja\</a>
+<a href = "https://www.linkedin.com/in/lavishsaluja/">Lavish Saluja</a>\
 Rachit Agrawal
 
 #### License
