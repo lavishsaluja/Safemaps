@@ -1,6 +1,11 @@
 #### About?
 An app which delievers the safest way to travel to your destination. We worked on this idea for a hackathon with the theme women-safety organized annually by IIIT Hyderabad and luckily won it :) 
 
+Here's how it looks like:
+
+![alt text](https://github.com/lavishsaluja/Safemaps/blob/master/image_1.png)
+
+
 Here is the [presentation](https://github.com/lavishsaluja/Safemaps/blob/master/presentation.pdf)
 
 #### To-do
